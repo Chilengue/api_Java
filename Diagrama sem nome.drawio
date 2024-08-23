@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Página-1" id="IfIiccpZ3hBfHiNTn0um">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7LJl1ssvQcPwo1sjRcSx-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="7LJl1ssvQcPwo1sjRcSx-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="130" as="sourcePoint" />
+            <mxPoint x="390" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7LJl1ssvQcPwo1sjRcSx-4" value="e" style="shape=mxgraph.ibm.box;prType=subnet;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=#E6F0E2;rounded=0;whiteSpace=wrap;html=1;strokeColor=#00882B;strokeWidth=1;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="310" width="600" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="7LJl1ssvQcPwo1sjRcSx-6" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="7LJl1ssvQcPwo1sjRcSx-4">
+          <mxGeometry x="50" y="60" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7LJl1ssvQcPwo1sjRcSx-7" value="" style="dashed=0;html=1;shape=mxgraph.aws3.permissions;fillColor=#D9A741;gradientColor=none;dashed=0;" vertex="1" parent="7LJl1ssvQcPwo1sjRcSx-4">
+          <mxGeometry x="60" y="40" width="30" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="7LJl1ssvQcPwo1sjRcSx-8" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="7LJl1ssvQcPwo1sjRcSx-4">
+          <mxGeometry x="370" y="60" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7LJl1ssvQcPwo1sjRcSx-9" value="" style="dashed=0;html=1;shape=mxgraph.aws3.permissions;fillColor=#D9A741;gradientColor=none;dashed=0;" vertex="1" parent="7LJl1ssvQcPwo1sjRcSx-4">
+          <mxGeometry x="380" y="40" width="30" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="7LJl1ssvQcPwo1sjRcSx-10" value="public subnet&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7LJl1ssvQcPwo1sjRcSx-4">
+          <mxGeometry x="410" y="20" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7LJl1ssvQcPwo1sjRcSx-11" value="public subnet&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7LJl1ssvQcPwo1sjRcSx-4">
+          <mxGeometry x="90" y="30" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
